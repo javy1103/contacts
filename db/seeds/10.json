@@ -1,0 +1,16 @@
+{
+    "employeeId":10,
+    "favorite": true,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image6_large.jpeg",
+    "email": "cristina@sharper.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "111 W 40th St",
+        "city": "New York",
+        "state": "NY",
+        "country": "US",
+        "zip": "10018",
+        "latitude": 40.753988,
+        "longitude": -73.985727
+    }
+}

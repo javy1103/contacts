@@ -1,0 +1,25 @@
+<div class="row">
+  <h1 class="text-center">Contact List</h1>
+</div>
+
+<div class="col-md-6 col-md-offset-3">
+  <% @contacts.each do |contact| %>
+      <div class="row well top-buffer">
+        <div class="media">
+          <div class="media-left">
+            <a href="#">
+              <%= image_tag contact.image.small, class: "img-thumbnail media-object" %>
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading"><%= link_to contact do %>
+                  <%= contact.name %>
+              <% end %>
+            </h4>
+            <%= contact.phone.work %>
+          </div>
+        </div>
+      </div>
+  <% end %>
+</div>
+

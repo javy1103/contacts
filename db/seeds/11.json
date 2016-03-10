@@ -1,0 +1,16 @@
+{
+        "employeeId":11,
+        "favorite": true,
+        "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image7_large.jpeg",
+        "email": "tonystark@ironman.com",
+        "website": "http://www.solstice-mobile.com",
+        "address": {
+            "street": "641 W Lake St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US",
+            "zip": "60661",
+            "latitude": 41.885383,
+            "longitude": -87.644481
+        }
+    }

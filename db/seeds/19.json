@@ -1,0 +1,16 @@
+{
+        "employeeId":19,
+        "favorite": true,
+        "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image19_large.jpeg",
+        "email": "josephine@kreutzbender.com",
+        "website": "http://www.josephineKreutzbender.com",
+        "address": {
+            "street": "411 E Wisconsin Ave",
+            "city": "Milwaukee",
+            "state": "WI",
+            "country": "US",
+            "zip": "53202",
+            "latitude": 43.03816,
+            "longitude": -87.905842
+        }
+    }

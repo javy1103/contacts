@@ -1,0 +1,16 @@
+{
+    "employeeId":9,
+    "favorite": true,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image16_large.jpeg",
+    "email": "lashawn@hasty.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "2202 S Central Ave",
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "US",
+        "zip": "85004",
+        "latitude": 33.42739,
+        "longitude": -112.074908
+    }
+}

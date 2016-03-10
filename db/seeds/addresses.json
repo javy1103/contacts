@@ -1,0 +1,203 @@
+[
+  {
+    "street": "28 W 27th St",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "zip": "10001",
+    "latitude": 40.74478,
+    "longitude": -73.989872,
+    "contact_id": 1
+  },
+  {
+    "street": "815 S Glendora Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "zip": "91790",
+    "latitude": 34.060897,
+    "longitude": -117.932632,
+    "contact_id": 2
+  },
+  {
+    "street": "3131 N Nimitz Hwy  #-105",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "US",
+    "zip": "96819",
+    "latitude": 21.335776,
+    "longitude": -157.909619,
+    "contact_id": 3
+  },
+  {
+    "street": "1650 S Harbor Blvd",
+    "city": "Anaheim",
+    "state": "CA",
+    "country": "US",
+    "zip": "92802",
+    "latitude": 33.807676,
+    "longitude": -117.914737,
+    "contact_id": 4
+  },
+  {
+    "street": "641 W Lake St",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "zip": "60661",
+    "latitude": 41.885383,
+    "longitude": -87.644481,
+    "contact_id": 5
+  },
+  {
+    "street": "343 Bush St Se",
+    "city": "Salem",
+    "state": "OR",
+    "country": "US",
+    "zip": "97302",
+    "latitude": 44.931227,
+    "longitude": -123.043365,
+    "contact_id": 6
+  },
+  {
+    "street": "14225 Hancock Dr",
+    "city": "Anchorage",
+    "state": "AK",
+    "country": "US",
+    "zip": "99515",
+    "latitude": 61.092631,
+    "longitude": -149.84393,
+    "contact_id": 7
+  },
+  {
+    "street": "2202 S Central Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "zip": "85004",
+    "latitude": 33.42739,
+    "longitude": -112.074908,
+    "contact_id": 8
+  },
+  {
+    "street": "111 W 40th St",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "zip": "10018",
+    "latitude": 40.753988,
+    "longitude": -73.985727,
+    "contact_id": 9
+  },
+  {
+    "street": "641 W Lake St",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "zip": "60661",
+    "latitude": 41.885383,
+    "longitude": -87.644481,
+    "contact_id": 10
+  },
+  {
+    "street": "2181 Harlem Rd",
+    "city": "Loves Park",
+    "state": "IL",
+    "country": "US",
+    "zip": "61111",
+    "latitude": 42.339734,
+    "longitude": -89.019916,
+    "contact_id": 11
+  },
+  {
+    "street": "7210 Gateway Blvd E",
+    "city": "EL Paso",
+    "state": "TX",
+    "country": "US",
+    "zip": "61111",
+    "latitude": 31.767358,
+    "longitude": -106.370749,
+    "contact_id": 12
+  },
+  {
+    "street": "3530 E Washington St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "zip": "85034",
+    "latitude": 33.448402,
+    "longitude": -112.004727,
+    "contact_id": 13
+  },
+  {
+    "street": "1700 Terminal St.",
+    "city": "West Sacramento",
+    "state": "CA",
+    "country": "US",
+    "zip": "95691",
+    "latitude": 38.56751,
+    "longitude": -121.541713,
+    "contact_id": 14
+  },
+  {
+    "street": "1700 Terminal St.",
+    "city": "West Sacramento",
+    "state": "CA",
+    "country": "US",
+    "zip": "95691",
+    "latitude": 38.56751,
+    "longitude": -121.541713,
+    "contact_id": 15
+  },
+  {
+    "street": "15 Park Row",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "zip": "10038",
+    "latitude": 40.711447,
+    "longitude": -74.007863,
+    "contact_id": 16
+  },
+  {
+    "street": "400 1st St Nw",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "zip": "10038",
+    "latitude": 38.895037,
+    "longitude": -77.012614,
+    "contact_id": 17
+  },
+  {
+    "street": "411 E Wisconsin Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "zip": "53202",
+    "latitude": 43.03816,
+    "longitude": -87.905842,
+    "contact_id": 18
+  },
+  {
+    "street": "933 Wiliwili St",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "US",
+    "zip": "96826",
+    "latitude": 21.293948,
+    "longitude": -157.829107,
+    "contact_id": 19
+  },
+  {
+    "street": "933 Wiliwili St",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "US",
+    "zip": "96826",
+    "latitude": 21.293948,
+    "longitude": -157.829107,
+    "contact_id": 20
+  }
+
+]

@@ -1,0 +1,16 @@
+{
+        "employeeId":18,
+        "favorite": false,
+        "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image12_large.jpeg",
+        "email": "josephine@sotlar.com",
+        "website": "http://www.josephinesotlar.com",
+        "address": {
+            "street": "400 1st St Nw",
+            "city": "Washington",
+            "state": "DC",
+            "country": "US",
+            "zip": "10038",
+            "latitude": 38.895037,
+            "longitude": -77.012614
+        }
+    }

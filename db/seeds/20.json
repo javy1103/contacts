@@ -1,0 +1,16 @@
+{
+        "employeeId":20,
+        "favorite": true,
+        "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image20_large.jpeg",
+        "email": "josephine@kreutzbender.com",
+        "website": "http://www.josephineKreutzbender.com",
+        "address": {
+            "street": "933 Wiliwili St",
+            "city": "Honolulu",
+            "state": "HI",
+            "country": "US",
+            "zip": "96826",
+            "latitude": 21.293948,
+            "longitude": -157.829107
+        }
+    }

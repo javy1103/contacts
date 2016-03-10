@@ -1,0 +1,16 @@
+{
+    "employeeId":4,
+    "favorite": false,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image14_large.jpeg",
+    "email": "zackary@mockus.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "1650 S Harbor Blvd",
+        "city": "Anaheim",
+        "state": "CA",
+        "country": "US",
+        "zip": "92802",
+        "latitude": 33.807676,
+        "longitude": -117.914737
+    }
+}

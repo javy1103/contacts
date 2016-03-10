@@ -1,0 +1,16 @@
+{
+    "employeeId":8,
+    "favorite": false,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image5_large.jpeg",
+    "email": "valerie@pou.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "14225 Hancock Dr",
+        "city": "Anchorage",
+        "state": "AK",
+        "country": "US",
+        "zip": "99515",
+        "latitude": 61.092631,
+        "longitude": -149.84393
+    }
+}

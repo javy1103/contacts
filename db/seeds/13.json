@@ -1,0 +1,16 @@
+{
+        "employeeId":13,
+        "favorite": 0,
+        "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image9_large.jpeg",
+        "email": "denice@nordlinger.com",
+        "website": "http://www.denicenordlinger.com",
+        "address": {
+            "street": "7210 Gateway Blvd E",
+            "city": "EL Paso",
+            "state": "TX",
+            "country": "US",
+            "zip": "61111",
+            "latitude": 31.767358,
+            "longitude": -106.370749
+        }
+    }

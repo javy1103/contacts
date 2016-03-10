@@ -1,0 +1,16 @@
+{
+    "employeeId":2,
+    "favorite": true,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image2_large.jpeg",
+    "email": "cruz@roudabush.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "815 S Glendora Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US",
+        "zip": "91790",
+        "latitude": 34.060897,
+        "longitude": -117.932632
+    }
+}

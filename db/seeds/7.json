@@ -1,0 +1,16 @@
+{
+    "employeeId":7,
+    "favorite": false,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image4_large.jpeg",
+    "email": "sue@haakinson.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "343 Bush St Se",
+        "city": "Salem",
+        "state": "OR",
+        "country": "US",
+        "zip": "97302",
+        "latitude": 44.931227,
+        "longitude": -123.043365
+    }
+}

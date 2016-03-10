@@ -1,0 +1,16 @@
+{
+    "employeeId":3,
+    "favorite": false,
+    "largeImageURL": "http://wellpledges-imac.local/Contacts/images/image13_large.jpeg",
+    "email": "billie@tinnes.com",
+    "website": "http://www.solstice-mobile.com",
+    "address": {
+        "street": "3131 N Nimitz Hwy  #-105",
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "US",
+        "zip": "96819",
+        "latitude": 21.335776,
+        "longitude": -157.909619
+    }
+}
